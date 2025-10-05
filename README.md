@@ -1,11 +1,5 @@
 
-  # Elaborate Idea as Actor
+  # Safarana
+  Plan Smarter. Travel Better. Save More
 
-  This is a code bundle for Travel Website Safarana.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
   
